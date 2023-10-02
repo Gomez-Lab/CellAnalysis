@@ -1,9 +1,7 @@
 # CellAnalysis
 
-Please cite for any use of data or results.
-
-
-Kesapragada, Manasa & Sun, Yao-Hui & Recendez, Cynthia & Fregoso, Daniel & Yang, Hsin-ya & Isseroff, Rivkah & Zhao, Min & Gomez, Marcella. (2022). Establishing cell motility patterns as predictors of macrophage subtypes and their relation to cell morphology. 10.1101/2022.11.29.518400. 
+A data-driven approach to establishing cell motility patterns as predictors of macrophage subtypes and their relation to cell morphology: 
+Manasa Kesapragada, Yao-Hui Sun, Cynthia Recendez, Daniel Fregoso, Marco Rolandi, Hsin-Ya Yang, Rivkah Isseroff, Min Zhao, and Marcella Gomez.
 
 Original data source:
 
