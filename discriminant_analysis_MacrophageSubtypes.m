@@ -1,5 +1,4 @@
-%% This code generates the plots for the discriminant analysis of the macrophage subtypes: Figs 3 (C - F) 
-
+%%
 %%read from txt and plot
 close all
 clear
@@ -266,9 +265,3 @@ legend('Cluster 1','Cluster 2','Location','best','FontSize', 14)
 xlabel('Speed (µm/min)','FontSize', 18)
 ylabel('Persistence','FontSize', 18)
 title(['{\bf Classification with mean accuracy of }' ,num2str(meanAccuracy * 100)],'FontSize', 14)
-axis([0 1 0 1])                            
-legend('M1','M2','Location','best','FontSize', 14)
-
-xlabel('Speed (µm/min)','FontSize', 18)
-ylabel('Persistence','FontSize', 18)
-title(['{\bf Classification with accuracy %ge: }' ,num2str(100-err*100)],'FontSize', 20)
