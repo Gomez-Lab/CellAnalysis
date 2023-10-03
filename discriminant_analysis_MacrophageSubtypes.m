@@ -1,4 +1,4 @@
-%% This code generates the plots for the discriminant analysis of the macrophage subtypes: Fig S4 
+%% This code generates the plots for the discriminant analysis of the macrophage subtypes: Figs 3 (C - F) 
 
 %%read from txt and plot
 close all
